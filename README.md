@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @wanehawa
 - 👀 I’m interested in java c++ , c# , php
+python , cobol
 
 - ...
 
